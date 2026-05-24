@@ -1,0 +1,6 @@
+{
+  "name": "FacultyAid",
+  "description": "AI-powered faculty development and research assistant for interviews, papers, grants, and training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
